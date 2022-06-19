@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Chenentano
-- 👀 I’m interested in Coding/Gym and Gaming
+- 👀 I’m interested in Coding, GYM and Gaming
 - 🌱 I’m currently learning Javascript and Python
-- 📫 Reach me LinkedIn 
+- 📫 Contact me on LinkedIn 
