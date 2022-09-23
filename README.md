@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Chenentano
 - 👀 I’m interested in Coding, GYM and Gaming
-- 🌱 I’m currently learning Javascript and Python
-- 📫 Contact me on LinkedIn "https://www.linkedin.com/in/bastian-behrendt-92904b1b4/"
+- 🌱 I’m currently learning C++ and ABAP
