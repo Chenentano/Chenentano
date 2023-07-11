@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Chenentano
 - 👀 I’m interested in Coding, GYM and Gaming
-- 🌱 I’m currently learning at codecademy.com for my full stack engineer certification.
+- 🌱 I’m currently learning at www.codecademy.com for my full stack engineer certification.
