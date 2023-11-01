@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **.Net/C#**
 
-- 👨‍💻 All of my projects are available at [-future portfolio link-](-future portfolio link-)
+- 👨‍💻 All of my projects are available at [-future portfolio link-]
 
 - 💬 Ask me about **HTML / CSS / JS / Python**
 
