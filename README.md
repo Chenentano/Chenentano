@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **.Net/C#**
 
-- 👨‍💻 All of my projects are available at [-future portfolio link-]
+- 👨‍💻 All of infos about me are available at [-future portfolio link-]
 
 - 💬 Ask me about **HTML / CSS / JS / Python**
 
 - 📫 How to reach me **chenentano@yahoo.com**
 
-- ⚡ Fun fact **I love the pain. Thats why I'm a programmer and lifter-**
+- ⚡ Fun fact **I love the pain. Thats why I'm a programmer and lifter lol-**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
