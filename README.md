@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **chenentano@yahoo.com**
 
-- ⚡ Fun fact **I love the pain. Thats why I'm programmer and lifter-**
+- ⚡ Fun fact **I love the pain. Thats why I'm a programmer and lifter-**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
