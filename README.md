@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chenentano" alt="chenentano" /></a> </p>
 
-- 🔭 I’m currently working on **my portfolio Website**
+- 🔭 I’m currently working on **my portfolio Website and C#/Docker experience**
 
 - 🌱 I’m currently learning **.Net/C#**
 
-- 👨‍💻 All infos about me are available at behrendt-web.vercel.app
+- 👨‍💻 All infos about me are available at **behrendt-web.vercel.app**
 
 - 💬 Ask me about **HTML / CSS / JS / Python**
 
