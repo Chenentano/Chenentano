@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **.Net/C#**
 
-- 👨‍💻 All of infos about me are available at [-future portfolio link-]
+- 👨‍💻 All infos about me are available at behrendt-web.vercel.app
 
 - 💬 Ask me about **HTML / CSS / JS / Python**
 
