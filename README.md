@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Java Projects**
 
-- 💬 Ask me about **HTML/CSS/JS**
-
 - 📫 How to reach me **chenentano@yahoo.com**
 
 - ⚡ Fun fact **my humor is extremly dry**
