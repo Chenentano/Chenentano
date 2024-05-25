@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java/Spring Boot & TS/React**
 
-- 👯 I’m looking to collaborate on **Java Projects**
+- 👯 I’m looking to collaborate on **Any Projects**
 
 - 📫 How to reach me **zarata123@yahoo.com**
 
