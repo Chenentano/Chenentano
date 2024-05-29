@@ -2,7 +2,7 @@
 <h2 align="center">A passionate developer from germany</h3>
 <h3 align="center">I am available to be hired starting from August 15th.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chenentano&label=Profile%20views&color=0e75b6&style=flat" alt="chenentano" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chenentano&label=Profile%20views&color=0e75b6&style=flat" alt="chenentanoUser" /> </p>
 
 - 🌱 I’m currently learning **Java/Spring Boot/Security & TS/React**
 
