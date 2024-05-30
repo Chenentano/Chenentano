@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **zarata123@yahoo.com**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chenentano&show_icons=true&locale=en&layout=compact" alt="chenentano" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chenentano&show_icons=true&locale=en&layout=compact" alt="chenentanoUser" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chenentano&" alt="chenentano" /></p>
 
